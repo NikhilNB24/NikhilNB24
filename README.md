@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilNB24
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Django REST framework
+- 👀 I’m interested in MERN Stack Web Development
+
 
 <!---
 NikhilNB24/NikhilNB24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
