@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NikhilNB24
-- 👀 Excited about MERN Stack Web Development
+- 👀 Excited about MERN Stack
+- 
 
 
 <!---
